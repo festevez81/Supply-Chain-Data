@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0871b63f-8d17-4928-b953-c2ea81469201)
+
 # Supply-Chain-Data
 This project involves analyzing and refining a flawed supply chain dataset to enhance its accuracy and usability for business insights.
 
