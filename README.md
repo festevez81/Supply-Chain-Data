@@ -11,9 +11,9 @@ In this project, the primary goal is to explore revenue, manufacturing costs, pr
 
 ## Objective
 
---Correcting revenue inconsistencies by creating a new REVENUE column, ensuring realistic values.
---Conducting profitability analysis, cost efficiency evaluations, and correlation studies between costs (manufacturing/shipping) and revenue.
---Generating insights to support decision-making and optimize operational efficiency
+• Correcting revenue inconsistencies by creating a new REVENUE column, ensuring realistic values.
+• Conducting profitability analysis, cost efficiency evaluations, and correlation studies between costs (manufacturing/shipping) and revenue.
+• Generating insights to support decision-making and optimize operational efficiency
 
 The project demonstrates advanced SQL query writing, data adjustment, and documentation best practices for effective data analytics
 
